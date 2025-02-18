@@ -1,10 +1,10 @@
 ---
 layout: page
 permalink: /file/awards-zh/index.html
-title: Awards-zh
+title: 个人奖项
 ---
 
-> 更新时间：2024/05/20 &nbsp; [English Version (英文)](https://caihanlin.com/awards/)
+> 更新时间：2025/02/19
 
 ## 综合奖学金
 
