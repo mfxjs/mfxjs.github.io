@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /file/aboutme-zh/index.html
-title: 关于我
+title: 基础信息
 ---
 
 ## 个人介绍
