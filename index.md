@@ -2,13 +2,6 @@
 layout: page
 ---
 
----
-
-layout: page
-permalink: /file/aboutme-zh/index.html
-title: 基础信息
----
-
 ## 个人介绍
 
 <img src="https://hlqstar.github.io/heliangqing22.jpg" class="floatpic" width="360" height="480">

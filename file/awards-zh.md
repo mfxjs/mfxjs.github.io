@@ -28,8 +28,8 @@ title: 个人奖项
 
 ## 实用技能
 
-- 熟练运用AE 、PR、PS、AU等音视频图片处理软件**<font color='red'>（后期）</font>
+- 熟练运用AE 、PR、PS、AU等音视频图片处理软件<font color='red'>（后期）</font>
 - 熟练使用Office办公软件**<font color='red'>（办公）</font>
-- 熟悉Python**<font color='red'>（二级）</font>、C++、C#编程语言**<font color='red'>（学习中）</font>；
-- 熟练应用Revit、Twinmotion、Lumion等BIM相关软件**<font color='red'>（建模渲染）</font>
-- 2020-2021学年运营四川大学锦江学院BIM协会“锦江BIM”公众号**<font color='red'>（宣传）</font>并于2022年学习独立部署校园墙小程序
+- 熟悉Python**<font color='red'>（二级）</font>、C++、C#编程语言<font color='red'>（学习中）</font>；
+- 熟练应用Revit、Twinmotion、Lumion等BIM相关软件<font color='red'>（建模渲染）</font>
+- 2020-2021学年运营四川大学锦江学院BIM协会“锦江BIM”公众号<font color='red'>（宣传）</font>并于2022年学习独立部署校园墙小程序
