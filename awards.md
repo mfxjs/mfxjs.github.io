@@ -4,7 +4,7 @@ permalink: /awards/index.html
 title: Awards
 ---
 
-> Update: 20th Sep 2024
+> Lastest Update: 2024/04/10 &nbsp; [中文版本 (Chinese Version)](https://hlqstar.github.io/file/awards-zh/)
 
 ## Scholarships
 
