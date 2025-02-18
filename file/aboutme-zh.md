@@ -6,7 +6,7 @@ title: 关于我
 
 ## 个人介绍
 
-<img src="https://hlqstar.github.io/heliangqing.jpg" class="floatpic" width="360" height="480">
+<img src="https://hlqstar.github.io/heliangqing22.jpg" class="floatpic" width="360" height="480">
 
 <br>
 
@@ -17,7 +17,9 @@ title: 关于我
 
 
 我是绵阳师范学院资源与环境工程学院资源与环境专业2022级研究生。
-校内导师是 [韩周林]，校外导师是 [齐珺]。
+
+
+校内导师 [韩周林]，校外导师 [齐珺]。
 
 
 如果您对我的任何方面感兴趣，欢迎交流合作，互通有无。
