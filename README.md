@@ -20,4 +20,4 @@ Here is **Hanlin Cai (Lance, 蔡汉霖)**. This is the repository for my persona
 
 ## Statement
 
-© 2024 Hanlin Cai. Published with [GitHub Pages](https://pages.github.com/), powered by [Jekyll](https://jekyllrb.com/), based on the [Minimal Mistakes](https://mademistakes.com/) theme and [Jason Ansel's site](https://github.com/jansel/jansel.github.io). Source code for this website can be found [here](https://github.com/GuangLun2000/GuangLun2000.github.io).
+© 2024 Hanlin Cai. 本页面布局使用 [GitHub Pages](https://pages.github.com/), 由 [Jekyll](https://jekyllrb.com/)提供技术支持, 基于 [Minimal Mistakes](https://mademistakes.com/) 和 [Jason Ansel's site](https://github.com/jansel/jansel.github.io)开发. 网页源代码可以 [点击这里](https://github.com/GuangLun2000/GuangLun2000.github.io)查看.
