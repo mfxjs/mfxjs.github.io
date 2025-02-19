@@ -14,7 +14,7 @@ layout: page
 
 我是绵阳师范学院资源与环境工程学院资源与环境专业2022级研究生。
 
-校内导师 [韩周林]，校外导师 [齐珺]。
+校内导师 [韩周林](https://mp.weixin.qq.com/s?__biz=MzA4MzQ5NDUyNQ==&mid=2652153109&idx=1&sn=9d2d8cc42e72cbbc2baabfbbe2042f3a&chksm=84159607b3621f113ed077228817a04cbc364ffc17d95d0a49d1f5772ee5374391a923abbb6d&scene=27)，校外导师 [齐珺](https://kns.cnki.net/kcms2/author/detail?v=hmawDzFpZzQ-MQvqlCCJAfEdakIA9ddX1QPqjqIj5eP0CcUdqBYWpUNLB_306Jgzjsxrhg2FbdSIO7hIQtrH-XiKk8js6Q8r1Z741KLsrHEjsYZrqaRqcA==&uniplatform=NZKPT&language=CHS)。
 
 如果您对我的任何方面感兴趣，欢迎交流合作，互通有无。
 
