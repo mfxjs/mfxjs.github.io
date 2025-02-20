@@ -12,9 +12,10 @@ layout: page
 
 我是**何良清 (He Liangqing)**。
 
-我是绵阳师范学院资源与环境工程学院资源与环境专业2022级研究生。
+绵阳师范学院资源与环境工程学院资源与环境专业2022级研究生。
 
-校内导师 [韩周林](https://kns.cnki.net/kcms2/author/detail?v=hmawDzFpZzRShyUO9t3JNHjqxZXK9Cqd_9JMh7H6sQXKStV6zMu-bdU1aHwLTfUu2_PYU9_LSnmtvwCWXUOF20ESCy_gUO_FibiyM1X-G-OBGhWqMddCNbqahB4_BlpX&uniplatform=NZKPT&language=CHS)，校外导师 [齐珺](https://kns.cnki.net/kcms2/author/detail?v=hmawDzFpZzQ-MQvqlCCJAfEdakIA9ddX1QPqjqIj5eP0CcUdqBYWpUNLB_306Jgzjsxrhg2FbdSIO7hIQtrH-XiKk8js6Q8r1Z741KLsrHEjsYZrqaRqcA==&uniplatform=NZKPT&language=CHS)。
+校内导师 [韩周林](https://kns.cnki.net/kcms2/author/detail?v=hmawDzFpZzRShyUO9t3JNHjqxZXK9Cqd_9JMh7H6sQXKStV6zMu-bdU1aHwLTfUu2_PYU9_LSnmtvwCWXUOF20ESCy_gUO_FibiyM1X-G-OBGhWqMddCNbqahB4_BlpX&uniplatform=NZKPT&language=CHS)。
+校外导师 [齐珺](https://kns.cnki.net/kcms2/author/detail?v=hmawDzFpZzQ-MQvqlCCJAfEdakIA9ddX1QPqjqIj5eP0CcUdqBYWpUNLB_306Jgzjsxrhg2FbdSIO7hIQtrH-XiKk8js6Q8r1Z741KLsrHEjsYZrqaRqcA==&uniplatform=NZKPT&language=CHS)。
 
 如果您对我的任何方面感兴趣，欢迎交流合作，互通有无。
 
