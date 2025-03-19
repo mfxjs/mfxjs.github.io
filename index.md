@@ -12,7 +12,7 @@ layout: page
 
 我是**毛凤霞 (Mao FengXia)**，来自四川金堂。
 
-从事硬笔书法培训师**<font color='red'>4年</font>**，儿童画培训师**<font color='red'>2年</font>**。
+从事硬笔书法培训**<font color='red'>4年</font>**，儿童画培训**<font color='red'>2年</font>**。
 
 从事**<font color='red'>学前教育7年</font>**，注重幼儿行为习惯和心理疏导。
 
