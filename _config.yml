@@ -42,8 +42,8 @@ links:
   #   url: /publications/
   # - title: 个人奖项
   #   url: /file/awards-zh/
-  # - title: Hobbies
-  #   url: /file/hobbies/
+  - title: 我的证书
+    url: /file/hobbies/
   # - title: Startups
   # url: /startups/
   # - title: 实践实习
