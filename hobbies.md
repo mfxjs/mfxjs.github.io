@@ -25,7 +25,7 @@ title: 我的证书
 <br>这是本人的健康管理师证书。
 
 ## 荣誉证书
-<div>
+<div class="third">
 <img src="/images/zhengshu.JPG">
 <img src="/images/jiangz.JPG">
 </div>
