@@ -14,7 +14,7 @@ title: 我的证书
 
 ## 书法协会会员证
 <div>
-<img src="/images/huiyuan.JPG">
+<img src="/images/swimming.JPG">
 </div>
 <br>这是本人的书法协会会员证。
 
