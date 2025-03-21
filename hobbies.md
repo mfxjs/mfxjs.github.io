@@ -21,7 +21,7 @@ title: 我的证书
 <div>
 <img src="/images/swimming2.JPG">
 </div>
-<br>这是本人的健康管理师证书。
+<br>这是本人的获奖证书。
 
 ## 书法协会会员证
 <div>
