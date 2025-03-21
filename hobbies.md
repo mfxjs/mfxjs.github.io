@@ -12,6 +12,13 @@ title: 我的证书
 </div>
 <br>这是本人的美术培训师和书法培训师资格证。
 
+## 荣誉证书
+<div class="third">
+<img src="/images/prelection1.JPG">
+<img src="/images/swimming2.JPG">
+</div>
+<br>这是本人的健康管理师证书。
+
 ## 书法协会会员证
 <div>
 <img src="/images/swimming.JPG">
@@ -24,9 +31,4 @@ title: 我的证书
 </div>
 <br>这是本人的健康管理师证书。
 
-## 荣誉证书
-<div class="third">
-<img src="/images/prelection1.JPG">
-<img src="/images/swimming2.JPG">
-</div>
-<br>这是本人的健康管理师证书。
+
