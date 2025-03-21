@@ -20,13 +20,13 @@ title: 我的证书
 
 ## 健康管理师证书
 <div>
-<img src="/images/jineng.JPG">
+<img src="/images/surfing1.JPG">
 </div>
 <br>这是本人的健康管理师证书。
 
 ## 荣誉证书
 <div class="third">
-<img src="/images/zhengshu.JPG">
-<img src="/images/jiangz.JPG">
+<img src="/images/prelection1.JPG">
+<img src="/images/swimming2.JPG">
 </div>
 <br>这是本人的健康管理师证书。
