@@ -8,6 +8,8 @@ title: 我的证书
 ## 美术和书法证书
 <div class="third">
 <img src="/images/meishu.JPG">
+</div>
+<div class="third">
 <img src="/images/shufa.JPG">
 </div>
 <br>这是本人的美术培训师和书法培训师资格证。
@@ -15,6 +17,8 @@ title: 我的证书
 ## 荣誉证书
 <div class="third">
 <img src="/images/prelection1.JPG">
+</div>
+<div class="third">
 <img src="/images/swimming2.JPG">
 </div>
 <br>这是本人的健康管理师证书。
