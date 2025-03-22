@@ -14,6 +14,12 @@ title: 我的证书
 </div>
 <br>这是本人的美术培训师和书法培训师资格证。
 
+## 艺术研究员证书
+<div>
+<img src="/images/speech1.JPG">
+</div>
+<br>这是本人的艺术研究员证书。
+
 ## 荣誉证书
 <div>
 <img src="/images/prelection1.JPG">
