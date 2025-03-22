@@ -20,15 +20,6 @@ title: 我的证书
 </div>
 <br>这是本人的艺术研究员证书。
 
-## 荣誉证书
-<div>
-<img src="/images/prelection1.JPG">
-</div>
-<div>
-<img src="/images/swimming2.JPG">
-</div>
-<br>这是本人的获奖证书。
-
 ## 书法协会会员证
 <div>
 <img src="/images/swimming.JPG">
@@ -41,4 +32,11 @@ title: 我的证书
 </div>
 <br>这是本人的健康管理师证书。
 
-
+## 荣誉证书
+<div>
+<img src="/images/prelection1.JPG">
+</div>
+<div>
+<img src="/images/swimming2.JPG">
+</div>
+<br>这是本人的获奖证书。
